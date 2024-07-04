@@ -25,3 +25,7 @@ int adder(int realnumber) {
 
   return noway;
 }
+
+int doubletrouble(int theEpikInput) {
+  return theEpikInput + theEpikInput;
+}

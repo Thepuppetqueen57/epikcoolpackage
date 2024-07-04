@@ -26,5 +26,8 @@ void main() {
 
       print(bigboy);
     });
+    test('Fifth test', () {
+      print(doubletrouble(5));
+    });
   });
 }

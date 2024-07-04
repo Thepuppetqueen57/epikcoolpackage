@@ -13,4 +13,7 @@ void main() {
 
   // Adder adds 3 to a number
   print(adder(0));
+
+  // Doubles the number
+  print(doubletrouble(3));
 }
