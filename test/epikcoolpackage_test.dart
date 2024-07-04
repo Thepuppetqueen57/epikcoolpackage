@@ -18,5 +18,8 @@ void main() {
 
       print(scrambledeggs);
     });
+    test('Third test', () {
+      irritation();
+    });
   });
 }

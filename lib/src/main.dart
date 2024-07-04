@@ -13,3 +13,9 @@ String themachine(String ohno) {
 
   return characters.join();
 }
+
+void irritation() {
+  print("you have lost the game");
+  print("you can now feel your tounge");
+  print("You are now blinking and breathing manually");
+}

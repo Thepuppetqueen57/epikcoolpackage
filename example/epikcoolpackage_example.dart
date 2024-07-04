@@ -7,4 +7,7 @@ void main() {
 
   // The scramble machine
   print(themachine("The machine"));
+
+  // Don't get mad
+  irritation();
 }
