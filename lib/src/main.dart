@@ -29,3 +29,14 @@ int adder(int realnumber) {
 int doubletrouble(int theEpikInput) {
   return theEpikInput + theEpikInput;
 }
+
+num infinitize(int ohboy) {
+  int uhhhh = ohboy * ohboy;
+  int bigger = uhhhh * 50;
+  int no = bigger + bigger + bigger + bigger;
+  int yes = no * no;
+  int maybe = yes + yes + yes + yes + yes + yes + yes;
+  int probably = maybe * 1000;
+
+  return probably;
+}

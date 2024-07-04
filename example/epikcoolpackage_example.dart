@@ -16,4 +16,7 @@ void main() {
 
   // Doubles the number
   print(doubletrouble(3));
+
+  // Makes the number pretty big
+  print(infinitize(10));
 }

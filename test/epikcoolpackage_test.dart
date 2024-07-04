@@ -29,5 +29,8 @@ void main() {
     test('Fifth test', () {
       print(doubletrouble(5));
     });
+    test('Sixth test', () {
+      print(infinitize(100));
+    });
   });
 }
