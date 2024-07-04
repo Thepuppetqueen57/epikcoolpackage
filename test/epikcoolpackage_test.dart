@@ -21,5 +21,10 @@ void main() {
     test('Third test', () {
       irritation();
     });
+    test('Fourth test', () {
+      int bigboy = adder(adder(adder(adder(adder(3)))));
+
+      print(bigboy);
+    });
   });
 }

@@ -19,3 +19,9 @@ void irritation() {
   print("you can now feel your tounge");
   print("You are now blinking and breathing manually");
 }
+
+int adder(int realnumber) {
+  int noway = realnumber + 3;
+
+  return noway;
+}

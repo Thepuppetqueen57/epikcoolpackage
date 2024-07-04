@@ -10,4 +10,7 @@ void main() {
 
   // Don't get mad
   irritation();
+
+  // Adder adds 3 to a number
+  print(adder(0));
 }
