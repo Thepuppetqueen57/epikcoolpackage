@@ -19,4 +19,9 @@ void main() {
 
   // Makes the number pretty big
   print(infinitize(10));
+
+  // This will print true
+  print(reverseboo(false));
+  // And this will print false
+  print(reverseboo(true));
 }

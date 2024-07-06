@@ -30,7 +30,7 @@ int doubletrouble(int theEpikInput) {
   return theEpikInput + theEpikInput;
 }
 
-num infinitize(int ohboy) {
+int infinitize(int ohboy) {
   int uhhhh = ohboy * ohboy;
   int bigger = uhhhh * 50;
   int no = bigger + bigger + bigger + bigger;
@@ -39,4 +39,12 @@ num infinitize(int ohboy) {
   int probably = maybe * 1000;
 
   return probably;
+}
+
+bool reverseboo(bool barlian) {
+  if(barlian == true) {
+    return false;
+  } else {
+    return true;
+  }
 }

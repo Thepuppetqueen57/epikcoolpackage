@@ -32,5 +32,8 @@ void main() {
     test('Sixth test', () {
       print(infinitize(100));
     });
+    test('Seventh test', () {
+      print(reverseboo(true));
+    });
   });
 }
