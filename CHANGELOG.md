@@ -1,3 +1,8 @@
+## 1.2.0
+
+- Added reverseboo
+- Added greet
+
 ## 1.1.1
 
 - Added infintize
