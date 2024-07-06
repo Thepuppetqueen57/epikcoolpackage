@@ -24,4 +24,7 @@ void main() {
   print(reverseboo(false));
   // And this will print false
   print(reverseboo(true));
+
+  // This will print "hello cj!"
+  print(greet("cj"));
 }

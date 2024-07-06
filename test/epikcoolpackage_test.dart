@@ -35,5 +35,8 @@ void main() {
     test('Seventh test', () {
       print(reverseboo(true));
     });
+    test('Eighth test', () {
+      print(greet("poopet"));
+    });
   });
 }

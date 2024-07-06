@@ -48,3 +48,7 @@ bool reverseboo(bool barlian) {
     return true;
   }
 }
+
+String greet(String name) {
+  return "I hope you kys $name";
+}
