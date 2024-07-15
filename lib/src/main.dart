@@ -52,3 +52,7 @@ bool reverseboo(bool barlian) {
 String greet(String name) {
   return "I hope you kys $name";
 }
+
+String grumble(String strumble) {
+  return "ok so this guy fr just said $strumble and I'm very offended so uhh go cancel him";
+}

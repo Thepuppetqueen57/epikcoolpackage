@@ -38,5 +38,8 @@ void main() {
     test('Eighth test', () {
       print(greet("poopet"));
     });
+    test('Ninth test', () {
+      print(grumble("bah"));
+    });
   });
 }

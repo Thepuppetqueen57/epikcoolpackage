@@ -27,4 +27,7 @@ void main() {
 
   // This will print "hello cj!"
   print(greet("cj"));
+
+  // no
+  print(grumble("bruh"));
 }
