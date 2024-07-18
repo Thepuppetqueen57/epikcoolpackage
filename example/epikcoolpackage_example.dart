@@ -30,4 +30,7 @@ void main() {
 
   // no
   print(grumble("bruh"));
+
+  // ok actual greet this time
+  print(actualgreet("pooper"));
 }

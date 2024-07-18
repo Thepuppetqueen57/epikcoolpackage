@@ -41,5 +41,8 @@ void main() {
     test('Ninth test', () {
       print(grumble("bah"));
     });
+    test('Tenth test', () {
+      print(actualgreet("parpert"));
+    });
   });
 }

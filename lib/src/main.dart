@@ -56,3 +56,7 @@ String greet(String name) {
 String grumble(String strumble) {
   return "ok so this guy fr just said $strumble and I'm very offended so uhh go cancel him";
 }
+
+String actualgreet(String name) {
+  return "Bro KYS $name";
+}
