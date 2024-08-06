@@ -70,3 +70,7 @@ dynamic valuestolist(dynamic firstvalue, dynamic secondvalue, dynamic thirdvalue
 
   return epiclist;
 }
+
+int verygoodadder(int one, int two) {
+  return int.parse(('$one$two'));
+}

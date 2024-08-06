@@ -47,5 +47,8 @@ void main() {
     test('Eleventh test', () {
       print(valuestolist("I", "am", "cool"));
     });
+    test('Twelfth test', () {
+      print(verygoodadder(3, 7));
+    });
   });
 }

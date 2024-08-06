@@ -3,6 +3,7 @@
 - Added grumble
 - Added actual greet
 - Added valuestolist
+- Added verygoodadder
 
 ## 1.2.0
 

@@ -36,4 +36,7 @@ void main() {
 
   // Adds all the values to a list
   print(valuestolist("I", "am", "cool"));
+
+  // This will print 37
+  print(verygoodadder(3, 7));
 }
