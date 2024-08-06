@@ -60,3 +60,13 @@ String grumble(String strumble) {
 String actualgreet(String name) {
   return "BRO KYS $name";
 }
+
+dynamic valuestolist(dynamic firstvalue, dynamic secondvalue, dynamic thirdvalue) {
+  var epiclist = [
+    firstvalue,
+    secondvalue,
+    thirdvalue
+  ];
+
+  return epiclist;
+}

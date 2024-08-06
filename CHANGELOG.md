@@ -1,6 +1,8 @@
 ## 2.0.0
 
 - Added grumble
+- Added actual greet
+- Added valuestolist
 
 ## 1.2.0
 

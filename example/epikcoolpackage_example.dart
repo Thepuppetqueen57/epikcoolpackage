@@ -33,4 +33,7 @@ void main() {
 
   // ok actual greet this time
   print(actualgreet("pooper"));
+
+  // Adds all the values to a list
+  print(valuestolist("I", "am", "cool"));
 }
